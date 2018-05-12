@@ -1,0 +1,32 @@
+_repo: Transcendentalism-in-New-EnglandA-History_38907
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frothingham, Octavius Brooks
+    alias: Frothingham, O. B. (Octavius Brooks)
+    birthdate: 1822
+    deathdate: 1895
+    gutenberg_agent_id: '38462'
+    url: http://www.gutenberg.org/2009/agents/38462
+    wikipedia: http://en.wikipedia.org/wiki/Octavius_Brooks_Frothingham
+description: Transcendentalism was an important intellectual movement in America,
+  influencing ideas and institutions, swaying politicians, inspiring philanthropists,
+  and creating reformers. Frothingham's history of transcendentalism relates how it
+  shaped the country's national mind and impacted its intellectual and moral character.
+gutenberg_issued: '2012-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38907'
+  lccn: '10028608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transcendentalism (New England)'
+- !lcc 'B'
+title: 'Transcendentalism in New England: A History'
+url: http://www.gutenberg.org/ebooks/38907
